@@ -1,9 +1,9 @@
 === uuHello Search Integration on BuddyPress ===
 Contributors: uuhello.com
 Donate link: http://usi.uuhello.com/
-Tags: buddypress, search, uuhello, business, travel, live, shopping, 
-Requires at least: 0.0.1
-Tested up to: 0.0.1
+Tags: buddypress, search, uuhello, business, travel, live, shopping
+Requires at least: 2.8.6
+Tested up to: 2.8.6
 Stable tag: Beta 0.0.1
 
 uuHello is a Vertical search engine. expert at Travel, Live, Shopping and e-Commerce domain. 
